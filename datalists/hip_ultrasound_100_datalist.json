@@ -1,0 +1,768 @@
+{
+  "training": [
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/0EXN9_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/0EXN9_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/0EXN9_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/0EXN9_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/0EXN9_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/0EXN9_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/0EXN9_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/0EXN9_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/0IRBPU_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/0IRBPU_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/0IRBPU_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/0IRBPU_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/0IRBPU_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/0IRBPU_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/0IRBPU_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/0IRBPU_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/0Y3T5K_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/0Y3T5K_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/0Y3T5K_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/0Y3T5K_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/0Y3T5K_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/0Y3T5K_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/0Y3T5K_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/0Y3T5K_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/3GL2MU_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/3GL2MU_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/3GL2MU_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/3GL2MU_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/3GL2MU_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/3GL2MU_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/3GL2MU_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/3GL2MU_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/4YU2OP_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/4YU2OP_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/4YU2OP_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/4YU2OP_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/4YU2OP_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/4YU2OP_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/4YU2OP_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/4YU2OP_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/71JZK7_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/71JZK7_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/71JZK7_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/71JZK7_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/71JZK7_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/71JZK7_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/71JZK7_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/71JZK7_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/7V4A6U_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/7V4A6U_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/7V4A6U_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/7V4A6U_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/7V4A6U_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/7V4A6U_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/7V4A6U_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/7V4A6U_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/823EAS_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/823EAS_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/823EAS_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/823EAS_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/823EAS_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/823EAS_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/823EAS_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/823EAS_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/8Q71TT_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/8Q71TT_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/8Q71TT_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/8Q71TT_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/8Q71TT_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/8Q71TT_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/8Q71TT_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/8Q71TT_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/B8B9AF_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/B8B9AF_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/B8B9AF_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/B8B9AF_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/BCODO6_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/BCODO6_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/BCODO6_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/BCODO6_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/BCODO6_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/BCODO6_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/BCODO6_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/BCODO6_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/BO96VQ_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/BO96VQ_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/BO96VQ_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/BO96VQ_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/BO96VQ_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/BO96VQ_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/BO96VQ_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/BO96VQ_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/CB0ZUM_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/CB0ZUM_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/CB0ZUM_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/CB0ZUM_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/CB0ZUM_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/CB0ZUM_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/CB0ZUM_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/CB0ZUM_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/EB3WZL_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/EB3WZL_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/EB3WZL_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/EB3WZL_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/EB3WZL_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/EB3WZL_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/EB3WZL_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/EB3WZL_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/ETR98D_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/ETR98D_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/ETR98D_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/ETR98D_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/ETR98D_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/ETR98D_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/ETR98D_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/ETR98D_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/FKMJ7C_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/FKMJ7C_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/FKMJ7C_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/FKMJ7C_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/FKMJ7C_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/FKMJ7C_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/FKMJ7C_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/FKMJ7C_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/GIC583_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/GIC583_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/GIC583_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/GIC583_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/GIC583_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/GIC583_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/GIC583_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/GIC583_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/IMCNNZ_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/IMCNNZ_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/IMCNNZ_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/IMCNNZ_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/J4QAMM_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/J4QAMM_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/J4QAMM_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/J4QAMM_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/JILV0C_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/JILV0C_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/JILV0C_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/JILV0C_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/JILV0C_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/JILV0C_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/JILV0C_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/JILV0C_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/KVN8FZ_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/KVN8FZ_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/KVN8FZ_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/KVN8FZ_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/KVN8FZ_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/KVN8FZ_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/KVN8FZ_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/KVN8FZ_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/LKPC9Z_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/LKPC9Z_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/LKPC9Z_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/LKPC9Z_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/LKPC9Z_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/LKPC9Z_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/LKPC9Z_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/LKPC9Z_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/MMU98Z_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/MMU98Z_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/MMU98Z_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/MMU98Z_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/MMU98Z_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/MMU98Z_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/MMU98Z_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/MMU98Z_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/O460DY_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/O460DY_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/O460DY_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/O460DY_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/OS2ENE_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/OS2ENE_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/OS2ENE_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/OS2ENE_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/OS2ENE_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/OS2ENE_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/OS2ENE_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/OS2ENE_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/PBMV76_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/PBMV76_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/PBMV76_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/PBMV76_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/PBMV76_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/PBMV76_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/PBMV76_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/PBMV76_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/RH2PZ9_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/RH2PZ9_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/RH2PZ9_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/RH2PZ9_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/RH2PZ9_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/RH2PZ9_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/RH2PZ9_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/RH2PZ9_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/U78BLH_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/U78BLH_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/U78BLH_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/U78BLH_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/U78BLH_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/U78BLH_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/U78BLH_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/U78BLH_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/U7QL3N_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/U7QL3N_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/U7QL3N_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/U7QL3N_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/U7QL3N_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/U7QL3N_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/U7QL3N_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/U7QL3N_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/UWMKHQ_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/UWMKHQ_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/UWMKHQ_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/UWMKHQ_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/UWMKHQ_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/UWMKHQ_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/UWMKHQ_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/UWMKHQ_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/VGLXJL_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/VGLXJL_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/VGLXJL_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/VGLXJL_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/VGLXJL_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/VGLXJL_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/VGLXJL_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/VGLXJL_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/W43ABL_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/W43ABL_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/W43ABL_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/W43ABL_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/W43ABL_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/W43ABL_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/W43ABL_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/W43ABL_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/XBVCQQ_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/XBVCQQ_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/XBVCQQ_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/XBVCQQ_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/XBVCQQ_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/XBVCQQ_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/XBVCQQ_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/XBVCQQ_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/XO4B0A_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/XO4B0A_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/XO4B0A_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/XO4B0A_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/XO4B0A_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/XO4B0A_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/XO4B0A_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/XO4B0A_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/ZOX664_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/ZOX664_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/ZOX664_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/ZOX664_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/ZOX664_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/ZOX664_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/ZOX664_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/ZOX664_sweep02_rechts_1x_p_d_seg.nii.gz"
+    }
+  ],
+  "validation": [
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/17FOUD_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/17FOUD_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/17FOUD_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/17FOUD_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/17FOUD_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/17FOUD_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/17FOUD_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/17FOUD_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/8S4NGK_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/8S4NGK_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/8S4NGK_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/8S4NGK_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/8S4NGK_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/8S4NGK_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/8S4NGK_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/8S4NGK_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/C2WIY1_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/C2WIY1_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/C2WIY1_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/C2WIY1_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/C2WIY1_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/C2WIY1_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/C2WIY1_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/C2WIY1_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/J3GRLN_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/J3GRLN_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/J3GRLN_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/J3GRLN_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/J3GRLN_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/J3GRLN_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/J3GRLN_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/J3GRLN_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/J3VLDM_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/J3VLDM_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/J3VLDM_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/J3VLDM_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/J3VLDM_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/J3VLDM_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/J3VLDM_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/J3VLDM_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/Q1A5KG_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/Q1A5KG_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/Q1A5KG_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/Q1A5KG_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/Q1A5KG_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/Q1A5KG_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/Q1A5KG_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/Q1A5KG_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/WF8976_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/WF8976_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/WF8976_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/WF8976_sweep02_rechts_1x_p_d_seg.nii.gz"
+    }
+  ],
+  "test": [
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/1WY90P_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/1WY90P_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/1WY90P_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/1WY90P_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/1WY90P_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/1WY90P_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/1WY90P_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/1WY90P_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/7S78PO_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/7S78PO_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/7S78PO_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/7S78PO_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/7S78PO_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/7S78PO_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/7S78PO_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/7S78PO_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/ALC2IT_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/ALC2IT_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/ALC2IT_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/ALC2IT_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/ALC2IT_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/ALC2IT_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/ALC2IT_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/ALC2IT_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/CT8QLI_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/CT8QLI_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/CT8QLI_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/CT8QLI_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/CT8QLI_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/CT8QLI_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/CT8QLI_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/CT8QLI_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/KW65JF_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/KW65JF_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/KW65JF_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/KW65JF_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/KW65JF_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/KW65JF_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/KW65JF_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/KW65JF_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/M52CPP_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/M52CPP_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/M52CPP_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/M52CPP_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/M52CPP_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/M52CPP_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/M52CPP_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/M52CPP_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/TVU7J9_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/TVU7J9_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/TVU7J9_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/TVU7J9_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/TVU7J9_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/TVU7J9_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/TVU7J9_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/TVU7J9_sweep02_rechts_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/Y9N6HY_sweep04_links_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/Y9N6HY_sweep04_links_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/Y9N6HY_sweep05_links_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/Y9N6HY_sweep05_links_1x_p_d_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/Y9N6HY_sweep01_rechts_1x_p_a_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/Y9N6HY_sweep01_rechts_1x_p_a_seg.nii.gz"
+    },
+    {
+      "image": "/data_rechenknecht03_2/students/boehmerle/img/Y9N6HY_sweep02_rechts_1x_p_d_rec.nii.gz",
+      "label": "/data_rechenknecht03_2/students/boehmerle/seg/Y9N6HY_sweep02_rechts_1x_p_d_seg.nii.gz"
+    }
+  ]
+}

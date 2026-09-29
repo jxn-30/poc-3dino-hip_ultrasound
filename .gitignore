@@ -1,0 +1,11 @@
+.env
+.ipynb_checkpoints
+.venv
+.venv-3dino
+cache
+
+img
+seg
+
+checkpoints
+outputs
